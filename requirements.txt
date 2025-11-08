@@ -1,7 +1,7 @@
-streamlit
-openai
-ccxt
-python-dotenv
-requests
-pandas
-numpy
+streamlit==1.38.0
+openai==1.51.0
+ccxt==4.3.87
+python-dotenv==1.0.1
+requests==2.31.0
+pandas==2.2.3
+numpy==1.26.4
