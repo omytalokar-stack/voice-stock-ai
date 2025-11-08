@@ -1,0 +1,12 @@
+# Crypto Streamlit Trader AI
+
+This is an AI-powered crypto scanner and advisor built with Streamlit.  
+It can:
+- Scan live crypto markets
+- Suggest buy/sell/hold signals
+- Respond to natural language questions about coins
+- Use OpenAI for smart analysis
+
+## Run Locally
+1. Clone this repo or download ZIP
+2. Run:

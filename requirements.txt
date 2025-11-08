@@ -1,0 +1,9 @@
+streamlit
+ccxt
+pandas
+numpy
+ta
+plotly
+gtts
+python-dotenv
+openai
